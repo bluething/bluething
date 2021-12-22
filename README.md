@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bluething
-- 👀 I’m interested in distributed system
-- 🌱 I’m currently learning Spring Boot, DDD, TDD and reactive programming
+- 👀 I’m interested in distributed system and blockchain
+- 🌱 I’m currently learning Spring Boot, DDD, TDD,  reactive programming, and blockchain
 - 💞️ I’m looking to collaborate on reactive spring project
 - 📫 How to reach me? Drop your message to habib.gunadarma@gmail.com
 
